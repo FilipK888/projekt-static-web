@@ -1,0 +1,48 @@
+h1{
+       text-transform: uppercase;
+       letter-spacing: 2px ;
+}
+h3{
+    font-family: italic;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+strong{
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #000000;   /* ramka */
+    padding: 2px;             /* odstęp wewnątrz ramki */
+}
+blockquote {
+    border-left: 4px solid #720606;
+    margin: 1em 0;
+    padding-left: 1em;
+    color: #222;
+    font-style: italic;
+    background-color: #e45555;
+}
+pre{
+    background-color: #720606;
+}
+button{
+    padding: 3px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+p{
+    display:flex
+}
+figcaption{
+    text-align: center;
+}
+
